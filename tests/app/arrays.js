@@ -19,7 +19,7 @@ describe('arrays', function() {
     expect(arraysAnswers.sum(a)).to.eql(10);
   });
 
-  it('you should be able to remove all instances of a value from an array', function() {
+  it('you should be able to remove all instancesss of a value from an array', function() {
     a.push(2); // Make sure the value appears more than one time
     var result = arraysAnswers.remove(a, 2);
 
